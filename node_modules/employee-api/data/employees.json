@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "fullName": "Ava Turner",
+    "role": "Product Manager",
+    "department": "Product",
+    "email": "ava.turner@example.com",
+    "salary": 128000,
+    "hireDate": "2021-03-14"
+  },
+  {
+    "id": 2,
+    "fullName": "Noah Hernandez",
+    "role": "Senior Engineer",
+    "department": "Engineering",
+    "email": "noah.h@example.com",
+    "salary": 142500,
+    "hireDate": "2019-08-22"
+  },
+  {
+    "id": 3,
+    "fullName": "Mia Chen",
+    "role": "UX Researcher",
+    "department": "Design",
+    "email": "mia.chen@example.com",
+    "salary": 98000,
+    "hireDate": "2022-02-01"
+  },
+  {
+    "id": 4,
+    "fullName": "Ethan Smith",
+    "role": "DevOps Engineer",
+    "department": "Platform",
+    "email": "ethan.smith@example.com",
+    "salary": 118500,
+    "hireDate": "2020-11-09"
+  },
+  {
+    "id": 5,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  },
+  {
+    "id": 6,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  },
+  {
+    "id": 7,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  },
+  {
+    "id": 8,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  },
+  {
+    "id": 9,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  },
+  {
+    "id": 10,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  },
+  {
+    "id": 11,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  },
+  {
+    "id": 12,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  },
+  {
+    "id": 13,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  },
+  {
+    "id": 14,
+    "fullName": "Luna Garcia",
+    "role": "People Partner",
+    "department": "People",
+    "email": "luna.garcia@example.com",
+    "salary": 97500,
+    "hireDate": "2018-06-30"
+  }
+]
